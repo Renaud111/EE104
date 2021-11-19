@@ -1,10 +1,6 @@
 import numpy as np
-import math as m
 import matplotlib.pyplot as plt
-import scipy as sp
-from scipy.fftpack import fft
 from scipy.io import wavfile
-import sys, os, os.path
 import pandas as pd
 import warnings
 warnings.filterwarnings('ignore')
